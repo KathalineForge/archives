@@ -32,3 +32,4 @@ if(from.parent.isGroup){
 			this.dispatchExternal("columnMoved", from.getComponent(), this.table.columnManager.getComponents());
 		}
 	}
+//nice
