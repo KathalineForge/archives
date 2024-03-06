@@ -14,7 +14,7 @@ var output = [],
 			output.push(column.getComponent());
 		});
 		
-		return output;
+		return output;//yes
 	}
 if(from.parent.isGroup){
 			this._moveColumnInArray(from.parent.columns, from, to, after);
